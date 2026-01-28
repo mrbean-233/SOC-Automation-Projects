@@ -1,7 +1,7 @@
-Brute Force Login - SOC Automation Workflow Diagram
+# SOC Automation Projects
 
+This repository contains SOC automation workflow designs
+focused on common security incidents.
 
-This diagram demonstrates an automated SOC workflow for detecting and containing brute-force
-login attempts from external IP addresses using SIEM alerts.
-
-![SOC Automation Workflow Diagram](BruteForce-Login-Automation/soc-bruteforce-automation-diagram.png)
+## Projects
+- Brute Force Login Automation
