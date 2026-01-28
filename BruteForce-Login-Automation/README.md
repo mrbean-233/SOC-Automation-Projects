@@ -1,6 +1,6 @@
 # Brute Force Login Automation
 
-This project demonstrates an automated SOC response workflow
-for detecting and containing brute-force login attempts.
+This diagram demonstrates an automated SOC workflow for detecting and containing brute-force
+login attempts from external IP addresses using SIEM alerts.
 
 ![Diagram](diagram.png)
